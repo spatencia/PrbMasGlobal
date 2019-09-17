@@ -4,20 +4,20 @@ using System.Collections.Generic;
 using System.Data;
 using System.Text;
 
-namespace DataAccess
+namespace DataAccess.EmpleadoDataAccess
 {
     public class EmpleadoDataAccess
     {
 
         
-        public static DataTable ObtenerEmpleado(string nombre)
+        public static DataTable ObtenerEmpleadoByIdentificacion(string identificacion)
         {
             Connection con = new Connection();
             DataTable result = new DataTable();
             try
             {
                 con.OpenConection();
-                result = con.ShowDataTable("SELECT * FROM Empleado WHERE Nombre = " + nombre);
+                result = con.ShowDataTable("SELECT * FROM Empleado WHERE Identificacion = " + identificacion);
                 con.CloseConnection();
             }
             catch (Exception)
