@@ -1,0 +1,6 @@
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
