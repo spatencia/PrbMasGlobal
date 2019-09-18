@@ -17,7 +17,7 @@ namespace BusinessLogic.DTO
         /// <param name="apellido"></param>
         /// <param name="salario"></param>
         /// <param name="tipoContrato"></param>
-        public EmpleadoDTO(int id, int identificacion, string nombre, string apellido, int salario, int tipoContrato)
+        public EmpleadoDTO(int id, string identificacion, string nombre, string apellido, int salario, int tipoContrato)
         {
             this.Id = id;
             this.Identificacion = identificacion;

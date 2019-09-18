@@ -7,7 +7,7 @@ namespace BusinessLogic.Base
     public abstract class EmpleadoBase
     {
         private int _Id;
-        private int _Identificacion;
+        private string _Identificacion;
         private string _Nombre;
         private string _Apellido;
         private int _Salario;
@@ -21,7 +21,7 @@ namespace BusinessLogic.Base
             set { _Id = value; }
         }
 
-        public int Identificacion
+        public string Identificacion
         {
             get { return _Identificacion; }
             set { _Identificacion = value; }

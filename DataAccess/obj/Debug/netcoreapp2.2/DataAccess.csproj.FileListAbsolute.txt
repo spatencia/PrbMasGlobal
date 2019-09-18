@@ -4,3 +4,12 @@ D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug
 D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
 D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
 D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\SEBASTIAN PAREJA\Documents\Prueba Mas Global\PrbMasGlobal\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb

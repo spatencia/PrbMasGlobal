@@ -3469,23 +3469,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lavendano\\.nuget\\packages\\": {},
+    "C:\\Users\\SEBASTIAN PAREJA\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\SEBASTIAN PAREJA\\Documents\\Prueba Mas Global\\PrbMasGlobal\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\lavendano\\.nuget\\packages\\",
-      "outputPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\SEBASTIAN PAREJA\\Documents\\Prueba Mas Global\\PrbMasGlobal\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\SEBASTIAN PAREJA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SEBASTIAN PAREJA\\Documents\\Prueba Mas Global\\PrbMasGlobal\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lavendano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SEBASTIAN PAREJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

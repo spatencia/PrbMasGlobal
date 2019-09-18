@@ -9,7 +9,6 @@ namespace DataAccess.EmpleadoDataAccess
     public class EmpleadoDataAccess
     {
 
-        
         public static DataTable ObtenerEmpleadoByIdentificacion(string identificacion)
         {
             Connection con = new Connection();

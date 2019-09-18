@@ -10,9 +10,7 @@ namespace BusinessLogic.Servicios
     public class EmpleadoServicios
     {
 
-        EmpleadoDataAccess EmpleadoDataAccess = new EmpleadoDataAccess();
-
-        public List<EmpleadoDTO> GetEmpleadosOrEmpleado(string identificacion)
+        public static List<EmpleadoDTO> GetEmpleadosOrEmpleado(string identificacion)
         {
             DataTable Result = new DataTable();
             List<EmpleadoDTO> ListaEmpleado = new List<EmpleadoDTO>();
@@ -27,17 +25,21 @@ namespace BusinessLogic.Servicios
                 if (Result.Rows.Count > 0)
                     foreach(DataRow row in Result.Rows)
                     {
-                        
+                        EmpleadoDTO emp = new EmpleadoDTO(int.Parse(row.ItemArray[0].ToString()),
+                                                          row.ItemArray[1].ToString(),
+                                                          row.ItemArray[2].ToString(),
+                                                          row.ItemArray[3].ToString(),
+                                                          int.Parse(row.ItemArray[4].ToString()),
+                                                          int.Parse(row.ItemArray[5].ToString()));
+                        emp.CalcularSalarioAnual();
+                        ListaEmpleado.Add(emp);
                     }
-
-
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                ListaEmpleado = null;
             }
-            return Result;
+            return ListaEmpleado;
         }
 
 
