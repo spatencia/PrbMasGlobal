@@ -3487,23 +3487,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lavendano\\.nuget\\packages\\": {},
+    "C:\\Users\\spareja\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\PrbMasGlobal\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\BusinessLogic\\BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\lavendano\\.nuget\\packages\\",
-      "outputPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\BusinessLogic\\obj\\",
+      "projectPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\PrbMasGlobal\\BusinessLogic\\BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\spareja\\.nuget\\packages\\",
+      "outputPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\PrbMasGlobal\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lavendano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\spareja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3516,8 +3516,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\DataAccess\\DataAccess.csproj"
+            "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\PrbMasGlobal\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\SPAREJA\\Proyectos P\\MasGlobal\\PruebaTecnica\\PrbMasGlobal\\PrbMasGlobal\\DataAccess\\DataAccess.csproj"
             }
           }
         }

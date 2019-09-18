@@ -13,7 +13,7 @@ namespace BusinessLogic.Base
         private int _Salario;
         private int _TipoContrato;
         private int _SalarioAnual;
-
+        private string _Contrato;
 
         public int Id
         {
@@ -56,7 +56,11 @@ namespace BusinessLogic.Base
             set { _SalarioAnual = value; }
         }
 
-
+        public string Contrato
+        {
+            get { return _Contrato; }
+            set { _Contrato = value; }
+        }
 
     }
 }

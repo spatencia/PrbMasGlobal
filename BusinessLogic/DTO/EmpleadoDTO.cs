@@ -31,9 +31,15 @@ namespace BusinessLogic.DTO
         {
             // SI TIPO CONTRATO ES 1 ENTONCES SALARIO POR HORA, SINO SALARIO MENSUAL
             if (this.TipoContrato.Equals(1))
+            {
                 this.SalarioAnual = 120 * this.Salario * 12;
+                this.Contrato = "Salario Por Hora";
+            }
             else
+            {
                 this.SalarioAnual = this.Salario * 12;
+                this.Contrato = "Salario Mensual";
+            }
         }
 
     }

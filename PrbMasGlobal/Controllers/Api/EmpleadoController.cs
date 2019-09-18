@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using BusinessLogic.DTO;
 using BusinessLogic.Servicios;
+using Newtonsoft.Json.Linq;
 
 namespace PrbMasGlobal.Controllers.Api
 {
@@ -13,17 +14,11 @@ namespace PrbMasGlobal.Controllers.Api
     [ApiController]
     public class EmpleadoController : ControllerBase
     {
-        
-        [HttpPost]
-        public IEnumerable<EmpleadoDTO> Post(string identificacion)
-        {
-            return EmpleadoServicios.GetEmpleadosOrEmpleado(identificacion);
-        }
 
         [HttpGet]
-        public IEnumerable<EmpleadoDTO> Get()
+        public IEnumerable<EmpleadoDTO> Get(string identificacion)
         {
-            return EmpleadoServicios.GetEmpleadosOrEmpleado("");
+            return EmpleadoServicios.GetEmpleadosOrEmpleado(identificacion);
         }
 
 

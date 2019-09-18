@@ -1,0 +1,12 @@
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\bin\Debug\netcoreapp2.2\BusinessLogic.deps.json
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\bin\Debug\netcoreapp2.2\BusinessLogic.dll
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\bin\Debug\netcoreapp2.2\BusinessLogic.pdb
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\bin\Debug\netcoreapp2.2\DataAccess.dll
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\bin\Debug\netcoreapp2.2\DataAccess.pdb
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.csprojAssemblyReference.cache
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.AssemblyInfoInputs.cache
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.AssemblyInfo.cs
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.csproj.CopyComplete
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.dll
+D:\SPAREJA\Proyectos P\MasGlobal\PruebaTecnica\PrbMasGlobal\PrbMasGlobal\BusinessLogic\obj\Debug\netcoreapp2.2\BusinessLogic.pdb
