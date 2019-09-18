@@ -6,8 +6,8 @@ namespace DataAccess.Conexion
 {
     public class Connection
     {
-        //string ConnectionString = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=MasGlobal; Integrated Security=False; User Id=usermasglobal;Password=usermasglobal; MultipleActiveResultSets=True";
-        string ConnectionString = "Data Source=Hemon; Initial Catalog=SPA; Integrated Security=False; User Id=Kmendoza;Password=kmendoza2018; MultipleActiveResultSets=True";
+
+        string ConnectionString = "Data Source=(local)\\SQLEXPRESS; Initial Catalog=MasGlobal; Integrated Security=False; User Id=usermasglobal;Password=usermasglobal; MultipleActiveResultSets=True";
         SqlConnection con;
 
         public void OpenConection()
